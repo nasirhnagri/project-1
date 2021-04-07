@@ -1,0 +1,97 @@
+body{
+    background-color: white;
+}
+h1{
+    font-size: 40px;
+}
+nav{
+    font-family: 'oswald' sans-serif;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+
+}
+.nav div{
+    display:flex;
+    flex: 1;
+    justify-content: space-evenly;
+    padding-left: 12px;
+}
+a{
+    font-size: 20px;
+    flex-direction: row;
+    text-decoration: none;
+    color: black;
+}
+
+#button{
+    color: rgb(91, 7, 201);
+    padding: 15px;
+    border: 2px solid red;
+    background-color: red;
+    border-radius: 80%;
+}
+section{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8PnJh87ojTOGRBMX7ed9-eAG5_MIJ-vI0Q&usqp=CAU);
+    background-size: cover;
+    height: 700px;
+    width: auto;
+    margin-top: 5px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding-top: 100px;
+    padding-left: 60px;
+}
+.text button{
+    width: 140px;
+    height: 40px;
+    color: white;
+    background-color: red;
+    border: 2ps solid #ff23ff;
+    border-radius: 8%;
+}
+ 
+.section-2{
+    width: 1100px;
+    height: 700px;
+    background-color: white;
+    /* border:3px solid red; */
+    margin: auto;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.myexperiences{
+    margin: auto;
+    margin-left: 40px;
+    text-decoration: solid;
+    position: relative;
+    top: 10px;
+}
+.box-7{
+    background-color: thistle;
+    width: 500px;
+    height: 700px;
+    border: 3px steelblue;
+}
+.myeducation {
+    margin: auto;
+    margin-left: 500px;
+    margin-bottom: 700px;
+    position: relative;
+    left: 70px; bottom: 830px;
+    text-decoration: solid;
+}
+/* .box-8{
+    background-color: rgb(185, 12, 185);
+    width: 500px;
+    height: 700px;
+    display: flex;
+    position: relative;
+    left: 570px; bottom: 1489px;
+    /* margin-right: 50px; */
+    
+} 

@@ -1,0 +1,30 @@
+.one{
+    background-color: skyblue;
+    padding-left: 10vh;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 1rem;
+    margin-top: 1rem;
+    display: block;
+}
+marquee{
+    
+    color: gray;
+}
+span{
+
+color: blue;
+}
+p{
+    color: red;
+    line-height: 0.5rem;
+}
+.beta{
+    font-size: 4rem;
+}
+body{
+    background-color: teal;
+}
+h1{
+    color:white;
+}

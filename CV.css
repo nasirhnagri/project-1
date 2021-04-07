@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    border: double black;
+    margin: auto;
+    width: 80%;
+    padding: 50px 50px;
+}
+.header{
+display: flex;
+flex-direction: row;
+}
+.header img {
+    width: 24%;
+    transform: translateX(237px);
+}
+.Experience{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
